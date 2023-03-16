@@ -1,5 +1,4 @@
 # resources
 Logos,Design guidelines and project files
 
-## License:
-CC BY-SA 4.0
+Licensed under CC BY-SA 4.0 [More Info](https://creativecommons.org/licenses/by-sa/4.0/)
